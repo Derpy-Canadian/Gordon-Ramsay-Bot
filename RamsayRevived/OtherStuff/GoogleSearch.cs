@@ -9,7 +9,7 @@ namespace RamsayRevived
     public class SearchCMD
     {
         //API Key
-        private static string API_KEY = "AIzaSyC9lubH2qidFmPVKB-92MtpqBvmpqk5Huk";
+        private static string API_KEY = "SEARCHAPIKEY";
 
         //The custom search engine identifier
         private static string cx = "015598178761323117960:sbbkk2__0lo";
